@@ -1,9 +1,0 @@
-((:container
-  ((elisp org-element--headline-cache)
-   (elisp org-element--cache))
-  :persist-file "0f/d3c3da-57fc-4481-9123-16f7a5c14f25" :associated
-  (:hash "d41d8cd98f00b204e9800998ecf8427e" :file "c:/Users/Anh88/Documents/.thori/rec/emacs/readme.org" :inode 2533274791025115)
-  :expiry 30 :last-access 1703068307.048501 :last-access-hr "2023-12-20T17:31:47+0700")
- (:container
-  ((index "3.1"))
-  :persist-file "6d/4357b6-894e-4e10-ad93-fcedbd934879" :associated nil :expiry never :last-access 1703068307.063029 :last-access-hr "2023-12-20T17:31:47+0700"))
