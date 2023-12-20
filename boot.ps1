@@ -1,0 +1,1 @@
+New-Item -ItemType Junction -Path $env:USERPROFILE\Roaming\.emacs.d\ -Target $pwd.Path
